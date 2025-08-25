@@ -24,3 +24,5 @@ The snake can move through walls and appear from the opposite side.
    ```bash
    git clone https://github.com/azkahrtmi/snake-game.git
    ```
+
+<img width="1907" height="894" alt="image" src="https://github.com/user-attachments/assets/2c43bafa-ee5a-479f-8702-1abd54ab9ad0" />
